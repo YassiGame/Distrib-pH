@@ -58,5 +58,5 @@ Développé comme outil pédagogique pour faciliter la compréhension des équil
 
 ## 📝 Licence
 
-Distribué sous licence MIT.
+Distribué sous licence GNU.
 Libre à toi de modifier, partager, et utiliser ce code.
